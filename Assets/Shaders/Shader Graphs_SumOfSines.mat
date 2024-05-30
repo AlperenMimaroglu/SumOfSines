@@ -52,10 +52,22 @@ Material:
     m_Ints: []
     m_Floats:
     - _Amplitude: 0.2
+    - _Amplitude_0: 0.4
+    - _Amplitude_1: 0.01
+    - _Amplitude_2: 0.3
     - _QueueControl: 0
     - _QueueOffset: 0
     - _Speed: 0.19
+    - _Speed_0: 1
+    - _Speed_1: 5
+    - _Speed_2: 1
     - _Wavelength: 1
+    - _Wavelength_0: 2
+    - _Wavelength_1: 0.5
+    - _Wavelength_2: 10
     m_Colors:
     - _Direction: {r: -1, g: -1, b: 0, a: 0}
+    - _Direction_0: {r: -0.5, g: 1, b: 0, a: 0}
+    - _Direction_1: {r: 0, g: 1, b: 0, a: 0}
+    - _Direction_2: {r: 1, g: 0, b: 0, a: 0}
   m_BuildTextureStacks: []
